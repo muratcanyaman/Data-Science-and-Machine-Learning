@@ -1,6 +1,6 @@
 # Data Science & ML Fundamentals
 
-## 🚀 Hakkında
+## 🚀 Repo Hakkında
 
 Bu repo, **veri bilimi** ve **makine öğrenmesi** alanında öğrendiğim tüm temel kavramları, uygulamaları ve projeleri bir araya getirmek için oluşturulmuştur. Burada hem kendi geliştirdiğim projeleri hem de öğrendiğim önemli notları, kod örneklerini ve ipuçlarını bulabilirsiniz.
 
