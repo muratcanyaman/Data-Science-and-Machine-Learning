@@ -32,3 +32,6 @@ Her türlü öneri, katkı ve geri bildirime açığım!
 ---
 
 > Bu repo, kişisel öğrenme yolculuğumun bir arşividir ve zamanla yeni projelerle güncellenecektir.
+> Bu repoyu hazırlarken kullanağım başlıca kaynakar:
+> https://www.w3schools.com
+> https://www.udemy.com/course/python-egitimi
