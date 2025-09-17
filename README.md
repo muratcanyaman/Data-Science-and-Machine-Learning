@@ -38,3 +38,5 @@ Her türlü öneri, katkı ve geri bildirime açığım!
 > https://www.w3schools.com
 > 
 > https://www.udemy.com/course/python-egitimi
+>
+> https://www.kaggle.com
