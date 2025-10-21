@@ -17,20 +17,6 @@ Bu repo, **veri bilimi** ve **makine öğrenmesi** alanında öğrendiğim tüm 
 
 Bu repoda, veri bilimi ve makine öğrenmesi yolculuğum boyunca öğrendiğim her şeyi tek bir yerde toplamak, gelişimimi takip etmek ve başkalarına da faydalı olabilecek kaynaklar sunmak istiyorum.
 
-## 🗂️ Proje Listesi
-
-> Buraya eklediğin projeleri ve kısa açıklamalarını ekleyebilirsin.  
-> Örnek:
-> - `balanced_accuracy_example.ipynb` — Dengesiz veri setlerinde balanced accuracy kullanımı
-> - `linear_regression_basics.ipynb` — Doğrusal regresyonun temelleri ve uygulaması
-
-## 📌 Katkı ve Geri Bildirim
-
-Her türlü öneri, katkı ve geri bildirime açığım!  
-İletişim için: [GitHub profilim](https://github.com/muratcanyaman) üzerinden ulaşabilirsin.
-
----
-
 > Bu repo, kişisel öğrenme yolculuğumun bir arşividir ve zamanla yeni projelerle güncellenecektir.
 > 
 > Bu repoyu hazırlarken kullanacağım başlıca kaynakar:
